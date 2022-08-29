@@ -1,1 +1,3 @@
 Primera versión de compras.txt
+
+Segunda versión de compras.txt
