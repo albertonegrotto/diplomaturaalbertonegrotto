@@ -4,23 +4,13 @@ p{
 h1{
     color:red
 }
-#serie1{
-    color:red
+#peliculas{
+    color:red;
+    font-weight: bolder;    
+    font-size: 24px;
 }
-#serie2{
-    color:green
-}
-#serie3{
+li{
     color:blue
-}
-#serie4{
-    color:rgb(255, 196, 0)
-}
-#serie5{
-    color:black
-}
-#serie6{
-    color: brown
 }
 .titulo{
     font-weight: bolder;    
