@@ -1,0 +1,33 @@
+p{
+    color:blue
+}
+h1{
+    color:red
+}
+#serie1{
+    color:red
+}
+#serie2{
+    color:green
+}
+#serie3{
+    color:blue
+}
+#serie4{
+    color:rgb(255, 196, 0)
+}
+#serie5{
+    color:black
+}
+#serie6{
+    color: brown
+}
+.titulo{
+    font-weight: bolder;    
+    font-size: 36px;
+    color:darkblue
+}
+a:hover{
+    font-size:24px;
+    color:goldenrod
+}
